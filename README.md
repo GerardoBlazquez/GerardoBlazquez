@@ -26,7 +26,7 @@ Me interesa el desarrollo de software eficiente, la optimización de procesos y 
 ---
 
 ## 🔷 Formación  
-*Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+### **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
   **Universidad Alfonso X el Sabio (UAX)**  
   _Septiembre 2024 – Actualmente_  
   - Formación en desarrollo de aplicaciones web y móviles.  
