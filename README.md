@@ -35,7 +35,7 @@ Me interesa el desarrollo de software eficiente, la optimización de procesos y 
 
 
 ## 🔷 Proyectos Destacados  
-[![GitHub Repo](https://img.shields.io/badge/🔗%20Ver%20en%20GitHub-181717?style=for-the-badge&logo=github)]([https://github.com/GerardoBlazquez/sistema-recomendaciones](https://github.com/GerardoBlazquez/dataset))
+[![Ver en GitHub](https://img.shields.io/badge/🔗%20Ver%20en%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GerardoBlazquez/dataset)  
 
 
 ## Sistema de Recomendaciones Cruzadas  
