@@ -20,6 +20,7 @@ Me interesa el desarrollo de software eficiente, la optimización de procesos y 
 
 ### Cloud & Otros  
 ![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+
 ---
 
 ## 🔷 Formación  
@@ -32,7 +33,6 @@ Me interesa el desarrollo de software eficiente, la optimización de procesos y 
   - Especialización en **Big Data e Inteligencia Artificial** con proyectos prácticos.
 
 ---
-
 
 ## 🔷 Proyectos Destacados  
 [![Ver en GitHub](https://img.shields.io/badge/🔗%20Ver%20en%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/GerardoBlazquez/dataset)  
@@ -82,7 +82,6 @@ El usuario introduce un título de referencia, selecciona su categoría y elige 
 - Combina **NLP, integración de APIs y arquitectura cliente-servidor**, optimizando recursos en un entorno con limitaciones (Render Free Tier).  
 
 ---
-
 
 ## 🔷 Contacto  
 ✉️ Email: gerardo.blazquez32@gmail.com
